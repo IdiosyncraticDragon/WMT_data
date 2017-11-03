@@ -1,4 +1,4 @@
-# WMT_data (Keep updating)
+# WMT_data (Keep updating, welcome for advices)
 Preprossed data for workshop on statistical machine translation (WMT), collected from other places
 
 When reimplement the NMT models, I found the data of WMT14/15/16/17 are raw data provided on the homepage, and it is not easy to find processed data which is exactly the paper used. So I creat this repository to collect the processed WMT data I met, which I am sure met the requirment of papers I read.
@@ -23,3 +23,8 @@ The data is used in these papers:
 - (similar to the data) Stephan Peitz, Joern Wuebker, Markus Freitag, and Hermann Ney. The rwth aachen german-english machine translation system for wmt 2014. In Proceedings of the Ninth Workshop on Statistical Machine Translation, 2014.
 - (similar to the data) Tao Lei, Yu Zhang: Training RNNs as Fast as CNNs. CoRR abs/1709.02755 (2017)
 
+### WMT 2015 English to German
+> WMT 2014 English to German data had updated the data of News Commentary v10
+
+The data is provided at:https://s3.amazonaws.com/opennmt-trainingdata/wmt15-de-en.tgz 
+The data is used in this tutorial for OpenNMT: http://forum.opennmt.net/t/training-english-german-wmt15-nmt-engine/29 
